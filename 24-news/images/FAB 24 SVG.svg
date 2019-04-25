@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5in" height="7.2in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5000 7200"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="522" font-variant="normal" style="fill-rule:nonzero" font-style="italic" font-weight="700">
+	<font-face 
+		font-family="Blade Runner Movie Font">
+		<font-face-src>
+			<font-face-name name="Blade Runner Movie Font"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="2" horiz-adv-x="659" d="M700.833 524c0,41.669 -6.49648,73.9988 -19.5016,97.1666 -25.6626,45.8352 -57.6631,68.8322 -95.666,68.8322l-244.664 0c-46.1646,0 -90.6701,-18.5012 -133.333,-55.6684 -38.3323,-33.495 -64.1657,-70.3328 -77.6649,-110.33l570.83 0zm-713.832 -525.001l576.167 1.50059 47.8299 169.5 -289.499 0c27.9989,22.9969 74.8345,47.3358 140.666,72.669 67.0022,25.9981 114.003,49.666 141.001,70.833 47.3358,36.667 77.1647,84.6616 89.8344,143.496l-252.332 0c0.329399,-1.66529 0.500198,-3.33059 0.500198,-5.33138 0,-18.1657 -34.837,-43.8344 -104.505,-76.6645 -102.333,-48.0007 -174.496,-89.6697 -216.83,-124.836 -81.6665,-68.0026 -126.001,-151.664 -132.833,-251.167z"/>
+   <glyph unicode="4" horiz-adv-x="689" d="M166.999 687.998l-49.3305 -164.998 225.663 0 46.3354 163.998 -222.668 1.0004zm346.332 -1.0004l-46.3293 -163.998 226.834 0 44.9995 163.998 -225.504 0zm-188.166 -688.498l66.0018 230.5 -348.168 -2.00079 59.4992 231 222.668 0 -14.9998 -58.999 126.837 0 13.664 58.999 227.169 0 -124 -461 -228.67 1.50059z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Blade Runner Movie Font";font-variant:normal;font-style:italic;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#657AB1}
+    .fnt0 {font-style:italic;font-weight:bold;font-size:645.413px;font-family:'Blade Runner Movie Font'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="2053" y="3822"  class="fil0 fnt0">24</text>
+ </g>
+</svg>
